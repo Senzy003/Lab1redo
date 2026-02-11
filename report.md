@@ -1,0 +1,1 @@
+I learned i do not know how to use git properly i practised git commands i learned how to create and manage the git reporsetory I am adding more information about me.
